@@ -25,7 +25,7 @@ O desafio técnico é claro: **identificar a bandeira e validar a estrutura do n
 
 Este projeto foi desenvolvido durante o **Bootcamp XP Inc. — Cloud com Inteligência Artificial**, ministrado pela [DIO](https://www.dio.me/). O contexto do bootcamp exigia a aplicação prática de lógica de programação e uso de IA assistida no desenvolvimento com Python.
 
-A escolha pelo tema de validação de cartões foi intencional: é um problema real do setor financeiro, presente em fintechs, e-commerce e sistemas de pagamento — exatamente o domínio onde atuo há mais de 15 anos em sistemas bancários críticos no Bradesco.
+A escolha pelo tema de validação de cartões foi intencional: é um problema real do setor financeiro, presente em fintechs, e-commerce e sistemas de pagamento — exatamente o domínio onde atuei mais de 15 anos em sistemas bancários críticos no Bradesco.
 
 A solução foi construída com ferramentas acessíveis (Python puro + Tkinter) para demonstrar que **algoritmos clássicos continuam sendo a base de sistemas financeiros confiáveis**, independentemente da modernidade do stack.
 
